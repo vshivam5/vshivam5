@@ -2,7 +2,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/vshivam5/vshivam5/master/me_1.gif" width=300>
+<img src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif" width=300>
 
 
 - 🔭 I’m currently working on Data Science and Business Analytics
