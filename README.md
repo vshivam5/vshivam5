@@ -2,7 +2,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif" width=300>
+<img src="https://raw.githubusercontent.com/vshivam5/vshivam5/master/me_1.gif" width=300>
 
 
 - 🔭 I’m currently working on Data Science and Business Analytics
@@ -33,7 +33,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vshiavm5/count.svg" />
 </p>
-<!--   ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=vshivam5)
+<!--   ![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=vshivam5)
  -->
-<!-- ![Dev's github stats]() -->
+<!-- ![Shivam's github stats]() -->
 </details>
